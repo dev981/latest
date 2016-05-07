@@ -1,7 +1,3 @@
 hi how are you
 new branch
-
 new commit
-3rdcommit
-
-4thcommit
