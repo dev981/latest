@@ -1,10 +1,7 @@
 hi how are you
 new branch
-<<<<<<< HEAD
+
 new commit
 3rdcommit
 
 4thcommit
-=======
-new commit
->>>>>>> parent of d1819a9... 3rdcommit
